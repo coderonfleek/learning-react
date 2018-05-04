@@ -1,0 +1,3 @@
+@import "./base/settings"; //because we are importing a partial we can leave out the underscore and extension
+@import "./base/base";
+@import "./components/header";
